@@ -1,6 +1,5 @@
 # AuthVK-Laravel
 
-inst: uniquerichboy </br>
 TG: @uniquerichboy
 
 <img src="https://i.imgur.com/GpzeMoL.png">
